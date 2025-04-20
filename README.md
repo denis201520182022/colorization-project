@@ -26,7 +26,6 @@
 
 Пример структуры:
 
-```text
 Input: [1, 64, 64] (grayscale)
 Output: [3, 64, 64] (RGB)
 
