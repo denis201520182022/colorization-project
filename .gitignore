@@ -38,6 +38,11 @@ saved_models/
 # Dataset files
 data/
 notebooks/data/
+notebooks/data/
+datasets/
+*.tar.gz
+*.zip
+
 datasets/__pycache__/
 
 
