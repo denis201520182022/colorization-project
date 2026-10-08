@@ -136,6 +136,6 @@
 
 # Контакты
 
-- **Автор**: Ваше имя
-- **GitHub**: [https://github.com/username](https://github.com/username)
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
+- **Автор**: Денис
+- **GitHub**: [https://github.com/username](https://github.com/denis201520182022)
+- **Email**: [youremail@example.com](mailto:denisgelik11@gmail.com)
